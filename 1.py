@@ -1,5 +1,4 @@
 """ Problem 1 """ 
-""" Solved using brute force + list generator"""
 import time 
 
 starttime = time.clock()
